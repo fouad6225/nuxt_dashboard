@@ -115,27 +115,27 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 >>>>>>> 71ece3b (Initial commit)
-
+![image](https://github.com/user-attachments/assets/9bf2ff1c-37e7-4d54-a4bf-aee7baa51567)
 
 
 ```Home Page .
 ![image](https://github.com/user-attachments/assets/9bf2ff1c-37e7-4d54-a4bf-aee7baa51567)
 
-<img src="https://github.com/user-attachments/assets/9bf2ff1c-37e7-4d54-a4bf-aee7baa51567" alt="Alt text" width="50%" height="50%">
+
 ```
 ```Login Page  .
 ![image](https://github.com/user-attachments/assets/39fee88f-8cba-4004-bbb9-42f6e13b1dea)
-<img src="https://github.com/user-attachments/assets/39fee88f-8cba-4004-bbb9-42f6e13b1dea" alt="Alt text" width="50%" height="50%">
+
 
 ```
 ```Dashboard
 ![image](https://github.com/user-attachments/assets/304f905c-6070-4259-af13-aa6212197a07)
 
-<img src="https://github.com/user-attachments/assets/304f905c-6070-4259-af13-aa6212197a07" alt="Alt text" width="50%" height="50%">
+
 ```
 ```Users
 
 ![image](https://github.com/user-attachments/assets/b8519e09-5fac-4b51-8630-3b6274471010)
-<img src="https://github.com/user-attachments/assets/b8519e09-5fac-4b51-8630-3b6274471010" alt="Alt text" width="50%" height="50%">
+
 ```
 
